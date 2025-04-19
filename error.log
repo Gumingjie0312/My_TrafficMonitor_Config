@@ -1,0 +1,262 @@
+2025/02/13 19:53:53.494: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/02/13 21:20:43.416: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2025/02/13 21:35:37.408: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2025/02/15 19:44:08.281: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2025/02/15 21:41:53.506: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2025/02/21 17:38:40.632: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/02/21 18:34:58.623: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2025/02/22 10:29:20.482: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2025/02/23 09:26:33.038: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2025/02/23 18:46:10.078: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2025/03/01 12:45:21.808: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2025/03/02 11:05:54.884: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/02 13:05:41.633: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/02 13:05:41.634: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/02 13:08:03.619: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/02 13:08:03.619: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/02 13:08:08.530: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/02 13:12:10.240: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/02 13:12:10.240: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/02 13:12:15.217: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/02 13:18:39.940: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/02 13:18:39.940: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/02 13:18:46.921: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/02 13:31:32.953: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/02 13:31:32.969: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/02 13:31:35.924: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/02 13:47:19.051: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/02 13:47:19.083: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/02 13:56:07.889: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/02 13:56:07.969: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/02 13:56:09.860: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/02 18:47:27.011: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/02 18:47:27.013: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/02 18:47:29.952: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/07 19:54:54.059: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/07 19:54:54.296: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/07 19:54:56.939: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/07 19:59:35.699: HResult:-2005270523
+2025/03/07 19:59:35.699: At file: "C:\\Users\\zhong\\Projects\\GitHub Porject\\TrafficMonitor\\TrafficMonitor\\TaskBarDlgDrawCommon.cpp" | line: 729.
+Error: Create ID2D1Bitmap1 from dxgi surface failed.
+2025/03/07 19:59:35.699: Handling device loss. HResult = DXGI_ERROR_DEVICE_REMOVED: The graphics device has been physically removed, turned off, or a driver upgrade has occurred. 
+2025/03/07 19:59:35.699: Notice: The D2D1 device will be recreated. This message is sent by the function on the next line:
+2025/03/07 19:59:35.699: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateD2D1Device(const long)
+2025/03/07 19:59:35.700: Notice: D3D10.1 device is invalid. All devices will be recreated. This message is sent by the function on the next line:
+2025/03/07 19:59:35.700: bool __cdecl CTaskBarDlgDrawCommonSupport::IsAllDevicesRecreatedByThisFunction(void)
+2025/03/07 19:59:35.700: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/07 19:59:35.700: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/07 19:59:37.441: HResult:-2005270523
+2025/03/07 19:59:37.441: At file: "C:\\Users\\zhong\\Projects\\GitHub Porject\\TrafficMonitor\\TrafficMonitor\\TaskBarDlgDrawCommon.cpp" | line: 729.
+Error: Create ID2D1Bitmap1 from dxgi surface failed.
+2025/03/07 19:59:37.441: Handling device loss. HResult = DXGI_ERROR_DEVICE_REMOVED: The graphics device has been physically removed, turned off, or a driver upgrade has occurred. 
+2025/03/07 19:59:37.441: Notice: The D2D1 device will be recreated. This message is sent by the function on the next line:
+2025/03/07 19:59:37.441: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateD2D1Device(const long)
+2025/03/07 19:59:37.441: Notice: D3D10.1 device is invalid. All devices will be recreated. This message is sent by the function on the next line:
+2025/03/07 19:59:37.441: bool __cdecl CTaskBarDlgDrawCommonSupport::IsAllDevicesRecreatedByThisFunction(void)
+2025/03/07 19:59:37.441: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/07 19:59:37.441: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/07 20:00:57.611: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/07 20:00:57.611: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/07 20:01:02.605: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/07 20:12:51.733: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/07 20:12:51.733: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/07 20:12:53.663: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/07 20:19:12.731: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/07 20:19:12.755: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/07 20:19:17.675: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/07 20:22:09.647: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/07 20:22:09.668: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/07 20:22:12.635: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/07 20:22:15.632: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2025/03/07 20:23:57.887: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/07 20:23:57.900: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/07 20:24:02.844: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/08 09:09:47.442: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/08 09:09:47.457: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/08 13:07:43.113: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/08 13:07:43.113: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/08 13:13:13.455: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2025/03/08 15:15:36.645: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/08 15:15:36.645: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/08 15:15:41.571: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/08 15:21:30.780: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2025/03/08 18:55:48.867: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/08 18:55:48.867: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/08 18:55:53.669: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/09 09:49:56.428: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/09 09:49:56.428: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/09 11:40:12.078: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/09 11:40:12.106: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/09 11:40:15.977: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/09 16:30:49.826: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/09 16:30:49.826: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/09 16:38:17.629: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/09 16:38:17.629: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/09 16:41:10.541: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/09 16:41:10.541: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/09 16:41:15.477: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/09 17:09:57.378: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/09 17:09:57.378: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/09 17:10:02.352: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/15 10:40:05.420: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/15 10:40:05.453: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/15 10:40:08.955: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/15 11:14:31.312: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/15 11:14:31.312: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/15 11:51:48.029: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/15 11:51:48.029: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/15 11:54:05.984: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/15 11:54:05.984: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/15 11:54:09.910: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/15 11:55:45.245: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/15 11:55:45.245: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/15 11:55:49.228: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/15 11:55:52.215: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2025/03/15 12:04:00.688: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/15 12:04:00.720: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/15 12:10:38.200: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/15 12:10:38.226: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/15 12:24:00.701: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/15 12:24:00.733: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/15 12:24:02.627: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/15 19:17:30.318: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/15 19:17:30.350: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/16 13:43:58.464: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/16 13:43:58.483: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/16 14:46:49.999: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/16 14:46:50.024: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/16 15:01:19.878: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/16 15:01:19.883: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/16 15:01:24.840: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/16 19:02:24.154: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/16 19:02:24.154: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/16 19:02:26.106: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/16 19:02:29.113: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2025/03/16 19:59:11.421: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/16 19:59:11.436: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/19 19:05:10.671: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/19 19:05:10.750: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/20 18:41:30.138: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/20 18:41:30.170: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/20 19:04:22.272: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/20 19:04:22.345: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/20 19:09:47.253: HResult:-2005270523
+2025/03/20 19:09:47.253: At file: "C:\\Users\\zhong\\Projects\\GitHub Porject\\TrafficMonitor\\TrafficMonitor\\TaskBarDlgDrawCommon.cpp" | line: 729.
+Error: Create ID2D1Bitmap1 from dxgi surface failed.
+2025/03/20 19:09:47.253: Handling device loss. HResult = DXGI_ERROR_DEVICE_REMOVED: The graphics device has been physically removed, turned off, or a driver upgrade has occurred. 
+2025/03/20 19:09:47.253: Notice: The D2D1 device will be recreated. This message is sent by the function on the next line:
+2025/03/20 19:09:47.253: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateD2D1Device(const long)
+2025/03/20 19:09:47.253: Notice: D3D10.1 device is invalid. All devices will be recreated. This message is sent by the function on the next line:
+2025/03/20 19:09:47.253: bool __cdecl CTaskBarDlgDrawCommonSupport::IsAllDevicesRecreatedByThisFunction(void)
+2025/03/20 19:09:47.253: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/20 19:09:47.253: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/20 19:09:48.775: HResult:-2005270523
+2025/03/20 19:09:48.775: At file: "C:\\Users\\zhong\\Projects\\GitHub Porject\\TrafficMonitor\\TrafficMonitor\\TaskBarDlgDrawCommon.cpp" | line: 729.
+Error: Create ID2D1Bitmap1 from dxgi surface failed.
+2025/03/20 19:09:48.775: Handling device loss. HResult = DXGI_ERROR_DEVICE_REMOVED: The graphics device has been physically removed, turned off, or a driver upgrade has occurred. 
+2025/03/20 19:09:48.775: Notice: The D2D1 device will be recreated. This message is sent by the function on the next line:
+2025/03/20 19:09:48.775: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateD2D1Device(const long)
+2025/03/20 19:09:48.775: Notice: D3D10.1 device is invalid. All devices will be recreated. This message is sent by the function on the next line:
+2025/03/20 19:09:48.776: bool __cdecl CTaskBarDlgDrawCommonSupport::IsAllDevicesRecreatedByThisFunction(void)
+2025/03/20 19:09:48.776: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/20 19:09:48.776: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/20 19:11:49.683: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/20 19:11:49.762: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/20 19:11:51.828: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/20 19:11:55.870: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2025/03/20 19:15:39.250: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化3次)
+2025/03/20 19:24:48.405: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/20 19:24:48.421: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/20 19:24:54.377: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/22 18:52:01.349: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/22 18:52:01.679: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/22 18:52:05.137: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/23 10:28:51.206: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/23 10:28:51.229: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/23 13:41:43.730: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/23 13:41:43.730: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/23 13:41:48.669: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/03/23 14:21:26.051: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/23 14:21:26.051: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/23 14:42:21.669: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/23 14:42:21.696: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/23 15:36:54.830: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/23 15:36:54.830: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/23 18:34:05.121: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/23 18:34:05.137: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/29 09:35:43.194: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/29 09:35:43.654: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/29 18:52:54.625: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/29 18:52:54.679: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/03/30 10:21:22.813: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/03/30 10:21:23.718: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/03 18:07:01.620: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/03 18:07:01.636: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/03 18:36:24.338: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/03 18:36:24.354: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/04 15:02:53.958: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/04 15:02:53.974: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/05 10:09:23.874: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/05 10:09:23.899: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/05 10:09:26.475: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/04/05 10:23:22.532: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/05 10:23:22.532: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/05 10:23:25.480: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/04/06 08:36:48.896: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/06 08:36:48.896: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/06 08:36:50.850: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/04/06 09:29:49.841: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/06 09:29:49.857: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/06 09:38:00.040: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/06 09:38:00.072: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/11 19:20:26.383: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/11 19:20:26.415: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/11 19:40:54.599: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/11 19:40:54.601: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/11 19:42:58.466: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/11 19:42:58.514: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/11 19:43:00.407: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2025/04/12 10:09:47.582: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/12 10:09:47.597: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/12 10:59:23.676: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/12 10:59:23.676: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/12 11:13:59.872: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/12 11:13:59.872: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/12 11:15:05.577: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/12 11:15:05.617: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/12 18:47:11.186: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/12 18:47:11.266: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/18 19:12:09.987: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/18 19:12:10.012: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/18 19:14:58.430: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/18 19:14:58.511: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/18 19:22:55.684: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/18 19:22:55.732: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/18 19:59:51.248: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/18 19:59:51.300: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/18 20:10:31.220: HResult:-2005270523
+2025/04/18 20:10:31.221: At file: "C:\\Users\\zhong\\Projects\\GitHub Porject\\TrafficMonitor\\TrafficMonitor\\TaskBarDlgDrawCommon.cpp" | line: 729.
+Error: Create ID2D1Bitmap1 from dxgi surface failed.
+2025/04/18 20:10:31.221: Handling device loss. HResult = DXGI_ERROR_DEVICE_REMOVED: The graphics device has been physically removed, turned off, or a driver upgrade has occurred. 
+2025/04/18 20:10:31.221: Notice: The D2D1 device will be recreated. This message is sent by the function on the next line:
+2025/04/18 20:10:31.221: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateD2D1Device(const long)
+2025/04/18 20:10:31.221: Notice: D3D10.1 device is invalid. All devices will be recreated. This message is sent by the function on the next line:
+2025/04/18 20:10:31.222: bool __cdecl CTaskBarDlgDrawCommonSupport::IsAllDevicesRecreatedByThisFunction(void)
+2025/04/18 20:10:31.222: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/18 20:10:31.222: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/18 20:10:32.852: HResult:-2005270523
+2025/04/18 20:10:32.854: At file: "C:\\Users\\zhong\\Projects\\GitHub Porject\\TrafficMonitor\\TrafficMonitor\\TaskBarDlgDrawCommon.cpp" | line: 729.
+Error: Create ID2D1Bitmap1 from dxgi surface failed.
+2025/04/18 20:10:32.854: Handling device loss. HResult = DXGI_ERROR_DEVICE_REMOVED: The graphics device has been physically removed, turned off, or a driver upgrade has occurred. 
+2025/04/18 20:10:32.854: Notice: The D2D1 device will be recreated. This message is sent by the function on the next line:
+2025/04/18 20:10:32.854: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateD2D1Device(const long)
+2025/04/18 20:10:32.854: Notice: D3D10.1 device is invalid. All devices will be recreated. This message is sent by the function on the next line:
+2025/04/18 20:10:32.854: bool __cdecl CTaskBarDlgDrawCommonSupport::IsAllDevicesRecreatedByThisFunction(void)
+2025/04/18 20:10:32.855: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/18 20:10:32.855: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/18 20:13:12.854: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/18 20:13:12.918: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/19 10:10:40.624: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/19 10:10:40.657: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2025/04/19 12:08:58.093: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2025/04/19 12:08:58.093: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
